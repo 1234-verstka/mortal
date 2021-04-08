@@ -165,7 +165,9 @@ body {
 .player2 .name {
     right: 5px;
 }
-
+.life{
+    color: #fff;
+}
 .chat {
     width: 786px;
     height: 30vh;
